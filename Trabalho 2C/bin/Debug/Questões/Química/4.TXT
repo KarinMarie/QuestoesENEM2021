@@ -1,0 +1,10 @@
+Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em preseça de água, de acordo com a equação química:CoCℓ2(s) + 6 H2O(g) (azul) ⇌ CoCℓ2·6H2O(s) ΔH < 0 (rosa). Como você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?
+Resfriaria no congelador.
+Borrifaria com spray de água.
+Envolveria com papel alumínio.
+Aqueceria com secador de cabelos.
+Embrulharia em guardanapo de papel.
+A resposta correta é a opção d) Aqueceria com secador de cabelos.Como o texto dizia que o aproveitamento do cartão só aconteceria se ele passasse de rosa para azul, a opção correta seria aquela que desloca-se o equilíbrio no sentido inverso. Como a reação é exotérmica no sentido direto (ΔH < 0), o aumento da temperatura irá favorecer o sentido indireto, visto que nesse sentido a reação é endotérmica. Portanto, o aquecimento do cartão com um secador de cabelo, permitirá um deslocamento do equilíbrio no sentido inverso, permitindo o aparecimento da coloração azul.
+D
+0
+2

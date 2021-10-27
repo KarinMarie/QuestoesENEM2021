@@ -1,0 +1,10 @@
+Considere a classe System.IO.File no ambiente de programação do C#. As opções a seguir apresentam métodos que pertencem a essa classe, à exceção de uma. Assinale-a.
+Count.
+Delete.
+Encrypt.
+ReadLines.
+WriteLines.
+A resposta correta é a opção a)Count. 
+A
+1
+4

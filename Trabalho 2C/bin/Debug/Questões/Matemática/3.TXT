@@ -1,0 +1,10 @@
+Uma empresa especializada em conservação de piscinas utiliza um produto para tratamento da água cujas especificações técnicas sugerem que seja adicionado 1,5 mL desse produto para cada 1 000 L de água da piscina. Essa empresa foi contratada para cuidar de uma piscina de base retangular, de profundidade constante igual a 1,7 m, com largura e comprimento iguais a 3 m e 5 m, respectivamente. O nível da lâmina d’água dessa piscina é mantido a 50 cm da borda da piscina.A quantidade desse produto, em mililitro, que deve ser adicionada a essa piscina de modo a atender às suas especificações técnicas é
+11,25.
+27,00.
+28,80.
+32,25.
+49,50.
+A resposta correta é a opção b) 27,00.De acordo com o enunciado temos que o volume de água na piscina é igual a: V = 5.3.1,2 = 15.1,2 = 18 m³ = 18 000 l. Logo, a quantidade de produto será: (18 000.1,5) / 1 000 = 27 ml
+B
+0
+3

@@ -1,0 +1,10 @@
+Com relação aos conceitos de programação orientada a objetos e sua implementação na linguagem C#, julgue o próximo item.Na programação orientada a objetos, o conceito de herança pode serutilizado mediante a criação de subclasses a partir de classes anteriormente criadas. Em C#, as subclasses herdam as variáveis de instância e os métodos de instância da superclasse, podendo ter acesso a todos os membros referidos na superclasse.
+Certo
+Errado
+---
+---
+---
+A resposta correta é a opção b)Errado.
+B
+0
+7

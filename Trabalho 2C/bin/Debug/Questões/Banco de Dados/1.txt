@@ -1,0 +1,10 @@
+Em uma certa arquitetura, o frontend executa as tarefas do aplicativo, e o backend executa as consultas no SGBD, retornando os resultados ao cliente. Apesar de ser uma arquitetura bastante popular, são necessárias soluções sofisticadas de software que possibilitem o tratamento de transações, confirmações de transações, desfazer transações, dentre outras funcionalidades. Marque a alternativa que representa essa arquitetura que foi descrita.
+Arquitetura Bando de Dados Centralizada.
+Arquitetura Baseada em Computador Pessoal.
+Arquitetura Banco de Dados Distribuída.
+Arquitetura Banco de Dados Cliente-Servidor.
+Arquitetura Banco de Dados Móvel.
+A resposta correta é a opção d) Arquitetura Banco de Dados Cliente-Servidor.
+D
+0
+2

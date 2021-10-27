@@ -1,0 +1,10 @@
+No que diz respeito às funções do administrador de dados e à elaboração e implantação de projeto de banco de dados, julgue os itens que se seguem. Se, durante a elaboração de um projeto de banco de dados relacional, houver dependência entre entidades, trata-se de representação que pode ser concebida utilizando-se o conceito de entidade fraca.
+Certo
+Errado
+---
+---
+---
+A resposta correta é a opção b) Errado
+B
+1
+3

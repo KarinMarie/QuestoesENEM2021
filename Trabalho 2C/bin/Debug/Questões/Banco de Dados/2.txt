@@ -1,0 +1,10 @@
+Em SQL, uma visão é uma relação que não está no modelo lógico do banco de dados, mas que é visível ao usuário como uma relação virtual. Marque a alternativa que possui o comando utilizado para a criação desta visão.
+CREATE VIEW [NOME DA VISAO] AS [EXPRESSAO DA CONSULTA].
+CREATE VIEW [NOME DA VISAO] FROM [EXPRESSAO DA CONSULTA].
+SELECT VIEW [NOME DA VISAO] AS [EXPRESSAO DA CONSULTA].
+SELECT VIEW [NOME DA VISAO] FROM [EXPRESSAO DA CONSULTA].
+UPDATE VIEW [NOME DA VISAO] FROM [EXPRESSAO DA CONSULTA].
+A resposta correta é a opção a) CREATE VIEW [NOME DA VISAO] AS [EXPRESSAO DA CONSULTA].
+A
+0
+4

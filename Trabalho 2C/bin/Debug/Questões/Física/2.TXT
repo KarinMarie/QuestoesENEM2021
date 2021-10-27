@@ -1,0 +1,10 @@
+Um motor só poderá realizar trabalho se receber uma quantidade de energia de outro sistema. No caso, a energia armazenada no combustível é, em parte, liberada durante a combustão para que o aparelho possa funcionar. Quando o motor funciona, parte da energia convertida ou transformada na combustão não pode ser utilizada para a realização de trabalho. isso significa dizer que há vazamento da energia em outra forma.De acordo com o texto, as transformações de energia que ocorrem durante o funcionamento do motor são decorrentes de a
+liberação de calor dentro do motor ser impossível.
+realização de trabalho pelo motor ser incontrolável.
+conversão integral de calor em trabalho ser impossível.
+transformação de energia térmica em cinética ser impossível.
+utilização de energia potencial do combustível ser incontrolável.
+A resposta correta é a opção c) conversão integral de calor em trabalho ser impossível. De acordo com a 2° lei da termodinâmica. Nenhuma maquina térmica pode chegar a um rendimento de 100%. Isso significa que não existe transformação integral de calor em trabalho.
+C
+1
+6

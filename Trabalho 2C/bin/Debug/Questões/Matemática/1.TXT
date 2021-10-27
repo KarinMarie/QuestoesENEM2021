@@ -1,0 +1,10 @@
+Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X.
+X > 1 500.
+X < 3 000.
+1 500 < X < 2 250.
+1 500 < X < 3 000.
+2 250 < X < 3 000.
+A resposta correta é a opção c)1 500 < X < 2 250. Sabendo que escala é a razão entre medida do desenho e medida da realidade, temos: 1/x = 0,5/1500 -> x = 3000 ; 1/x = 1/1500 -> x = 1500 ; 1/x = 4/9000 -> x = 2250. Assim, obtemos o resultado.
+C
+0
+5

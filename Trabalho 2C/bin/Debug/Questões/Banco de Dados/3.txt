@@ -1,0 +1,10 @@
+Um esquema de um SGBD é identificado por um nome e uma identificação de autorização, que indica o usuário ou conta a qual o esquema pertence, bem como os descritores de cada elemento.
+Certo
+Errado
+---
+---
+---
+A resposta correta é a opção a) Certo.
+A
+2
+2

@@ -1,0 +1,10 @@
+Considere os seguintes operadores:Igual a;Negação lógica;Módulo (resto da divisão);Ou lógico;And lógico. Assinale a lista dos símbolos que, respectivamente, representam esses operadores no C#.
+==     !     %     ||     &&	
+==     ~     %%     ||     &&	
+=     !     &     or     and	
+==     ~     mod     ||     &&	
+=     !=     &     or     and
+A resposta correta é a opção a) ==     !     %     ||     &&
+A
+6
+1

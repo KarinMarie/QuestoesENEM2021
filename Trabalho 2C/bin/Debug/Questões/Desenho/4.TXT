@@ -1,0 +1,10 @@
+Julgue os itens que se seguem, acerca de programas de necessidades, fluxogramas e programas complexos. O fluxograma, juntamente com a listagem de áreas, constitui uma ferramenta auxiliar muito útil para a montagem do programa de necessidades.
+Certo
+Errado
+---
+---
+---
+A resposta correta é a opção b) Errado. O programa de necessidades deve vir antes do fluxograma, pois ele indica os fluxos do projeto, que só são determinados a partir de um programa de necessidades, onde consta basicamente os ambientes, espaços e suas características, como o tamanho, por exemplo.
+B
+2
+4

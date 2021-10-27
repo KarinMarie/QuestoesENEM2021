@@ -1,0 +1,10 @@
+Uma equipe de cientistas lançará uma expedição ao Titanic para criar um detalhado mapa 3D que “vai tirar, virtualmente, o Titanic do fundo do mar para o público”.A expedição ao local, a 4 quilômetros de profundidade no Oceano Atlântico, está sendo apresentada como a mais sofisticada expedição científica ao Titanic. Ela utilizará tecnologias de imagem e sonar que nunca tinha sido aplicadas ao navio, para obter o mais completo inventário de seu conteúdo. Esta complementação é necessária em razão das condições do navio, naufragado há um século.No problema apresentado para gerar imagens através de camadas de sedimentos depositados no navio, o sonar é mais adequado, pois a
+propagação da luz na água ocorre a uma velocidade maior que a do som neste meio.
+absorção da luz ao longo de uma camada de água é facilitada enquanto a absorção do som não.
+refração da luz a uma grande profundidade acontece com uma intensidade menor que a do som.
+atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.
+reflexão da luz nas camadas de sedimento é menos intensa do que a reflexão do som neste material.
+A resposta correta é a opção d)atenuação da luz nos materiais analisados é distinta da atenuação de som nestes mesmos materiais.A luz, ao incidir nas primeiras camadas dos sedimentos do navio, sofrerá atenuações provenientes de reflexões e absorções. Já o Sonar, ao entrar em contato com esses sedimentos, produzirá ecos. Esses ecos são captados em instantes diferentes pelo receptor, facilitando o mapeamento tridimensional do navio.
+D
+1
+6

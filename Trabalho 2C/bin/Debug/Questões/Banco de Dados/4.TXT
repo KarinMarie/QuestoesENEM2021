@@ -1,0 +1,10 @@
+No modelo relacional de banco de dados, cada linha é
+um domínio, o nome de uma coluna é chamado de célula e uma tabela é chamada de relação; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de atributo.
+uma relação, o nome de uma coluna é chamado de célula e uma tabela é chamada de tupla; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de atributo.
+uma tupla, o nome de uma coluna é chamado de atributo e uma tabela é chamada de relação; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de domínio.
+uma tupla, o nome de uma coluna é chamado de célula e uma tabela é chamada de relação; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de atributo.
+um domínio, o nome de uma coluna é chamado de atributo e uma tabela é chamada de tupla; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de relação.
+A resposta correta é a opção c)uma tupla, o nome de uma coluna é chamado de atributo e uma tabela é chamada de relação; o tipo de dado que especifica o tipo dos valores que podem aparecer em uma coluna é chamado de domínio.
+C
+0
+3
